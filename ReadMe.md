@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello 
 
-# this is new
+# hi
